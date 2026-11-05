@@ -8,3 +8,6 @@ node_modules/
 
 # ignore all files that have the extension .log
 *.log 
+
+# ignore the credentials file
+credentials.md
